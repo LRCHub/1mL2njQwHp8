@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "会いたくて 会いたくて",
-  "base_artist": "Kana Nishino",
-  "createdAt": "2025-12-03T18:53:12.223480Z",
+  "base_artist": "西野カナ",
+  "createdAt": "2026-03-27T04:19:54.006078Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -91,78 +91,6 @@
       "artist": "西野 カナ",
       "has_synced": false,
       "path": "select/pl_01_会いたくて_会いたくて_西野_カナ.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "会いたくて 会いたくて",
-      "artist": "西野 カナ",
-      "has_synced": false,
-      "path": "select/pl_02_会いたくて_会いたくて_西野_カナ.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "会いたくて 会いたくて",
-      "artist": "西野 カナ",
-      "has_synced": false,
-      "path": "select/pl_03_会いたくて_会いたくて_西野_カナ.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "会いたくて 会いたくて",
-      "artist": "西野 カナ",
-      "has_synced": false,
-      "path": "select/pl_04_会いたくて_会いたくて_西野_カナ.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "会いたくて 会いたくて",
-      "artist": "西野 カナ",
-      "has_synced": false,
-      "path": "select/pl_05_会いたくて_会いたくて_西野_カナ.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "会いたくて 会いたくて",
-      "artist": "西野 カナ",
-      "has_synced": false,
-      "path": "select/pl_06_会いたくて_会いたくて_西野_カナ.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "会いたくて 会いたくて",
-      "artist": "西野 カナ",
-      "has_synced": false,
-      "path": "select/pl_07_会いたくて_会いたくて_西野_カナ.txt"
-    },
-    {
-      "id": "petitlyrics_8",
-      "source": "petitlyrics",
-      "title": "会いたくて 会いたくて",
-      "artist": "西野 カナ",
-      "has_synced": false,
-      "path": "select/pl_08_会いたくて_会いたくて_西野_カナ.txt"
-    },
-    {
-      "id": "petitlyrics_9",
-      "source": "petitlyrics",
-      "title": "会いたくて 会いたくて",
-      "artist": "西野 カナ",
-      "has_synced": false,
-      "path": "select/pl_09_会いたくて_会いたくて_西野_カナ.txt"
-    },
-    {
-      "id": "petitlyrics_10",
-      "source": "petitlyrics",
-      "title": "会いたくて 会いたくて",
-      "artist": "西野 カナ",
-      "has_synced": false,
-      "path": "select/pl_10_会いたくて_会いたくて_西野_カナ.txt"
     }
   ]
 }
